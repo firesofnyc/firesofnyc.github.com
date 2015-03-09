@@ -4,8 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+####Spatial Data Sources:
+* [FDNY Firehouse Listing](https://data.cityofnewyork.us/Public-Safety/FDNY-Firehouse-Listing/hc8x-tcnd) Geocoded using CartoDB's geocoder.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+* [FDNY Company Boundaries](http://www.nyc.gov/html/dcp/html/bytes/districts_download_metadata.shtml#shfp)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+* [FDNY Battalion Boundaries](http://www.nyc.gov/html/dcp/html/bytes/districts_download_metadata.shtml#shfp)
+
+* [FDNY Division Boundaries](http://www.nyc.gov/html/dcp/html/bytes/districts_download_metadata.shtml#shfp)
